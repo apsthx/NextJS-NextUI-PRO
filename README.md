@@ -66,7 +66,7 @@ npm, yarn, pnpm
 ```bash
 npm install --save-dev @iconify/react
 ```
-To learn more about Iconify, please visit Iconify React
+To learn more about Iconify, please visit [Iconify React](https://iconify.design/docs/icon-components/react/)
 
 ## Install `usehooks-ts` package
 
@@ -77,7 +77,7 @@ npm, yarn, pnpm
 ```bash
 npm install usehooks-ts
 ```
-To learn more about `usehooks-ts`, please visit usehooks-ts Documentation
+To learn more about `usehooks-ts`, please visit [usehooks-ts Documentation](https://usehooks-ts.com)
 
 ## Install `clsx` and `tailwind-merge` packages
 
@@ -125,7 +125,7 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 ```
-To learn more about `clsx` and `tailwind-merge`, please visit clsx and tailwind-merge.
+To learn more about `clsx` and `tailwind-merge`, please visit [clsx](https://github.com/lukeed/clsx) and [tailwind-merge.](https://github.com/dcastil/tailwind-merge)
 
 You are ready to use NextUI Pro 🎉
 
