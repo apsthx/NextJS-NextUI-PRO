@@ -131,4 +131,4 @@ You are ready to use NextUI Pro 🎉
 
 Now you can copy & paste any component from NextUI Pro and use it in your React application.
 
-To learn more about NextUI Open Source, please visit NextUI
+To learn more about NextUI Open Source, please visit [NextUI](https://nextui.org)
