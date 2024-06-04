@@ -1,4 +1,4 @@
-# Next.js & NextUI PRO Template
+# Next.js & NextUI PRO Template  Node v20.14.0
 
 This is a template for creating applications using Next.js 14 (pages directory) and NextUI (v2).
 
